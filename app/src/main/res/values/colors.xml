@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_title_pressed">#880000</color><!-- 按下的背景 -->
+
+    <color name="gray">#808080</color><!--灰色 -->
+    <color name="grey">#808080</color><!--灰色 -->
+</resources>

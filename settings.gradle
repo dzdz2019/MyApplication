@@ -1,0 +1,2 @@
+include ':app', ':gallerys'
+project(':gallerys').projectDir = new File('gallery')
